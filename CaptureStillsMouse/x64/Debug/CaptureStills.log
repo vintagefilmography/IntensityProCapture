@@ -1,0 +1,27 @@
+﻿C:\Users\stan\source\repos\Blackmagic DeckLink SDK 12.4.2\Win\Samples\CaptureStillsMouse\CaptureStills.vcxproj(61,5): warning MSB4011: "C:\Users\stan\AppData\Local\Microsoft\MSBuild\v4.0\Microsoft.Cpp.x64.user.props" cannot be imported again. It was already imported at "C:\Users\stan\source\repos\Blackmagic DeckLink SDK 12.4.2\Win\Samples\CaptureStillsMouse\CaptureStills.vcxproj (58,5)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  64 bit Processing ..\..\..\Win\include\DeckLinkAPI.idl
+  DeckLinkAPI.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\unknwn.idl
+  unknwn.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wtypes.idl
+  wtypes.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wtypesbase.idl
+  wtypesbase.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h
+  basetsd.h
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\guiddef.h
+  guiddef.h
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\oaidl.idl
+  oaidl.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objidl.idl
+  objidl.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\oaidl.acf
+  oaidl.acf
+  Bgra32VideoFrame.cpp
+  CaptureStills.cpp
+  DeckLinkInputDevice.cpp
+  ImageWriterWin.cpp
+  platform.cpp
+  Generating Code...
+  DeckLinkAPI_i.c
+  CaptureStills.vcxproj -> C:\Users\stan\source\repos\Blackmagic DeckLink SDK 12.4.2\Win\Samples\CaptureStillsMouse\Debug\CaptureStills.exe

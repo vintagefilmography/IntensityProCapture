@@ -1,0 +1,1 @@
+C:\Users\stan\source\repos\Blackmagic DeckLink SDK 12.4.2\Win\Samples\CaptureStillsMouse\x64\Release\CaptureStills.exe
