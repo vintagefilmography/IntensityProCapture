@@ -34,7 +34,9 @@ Get the scanner and your camera ready.
 Create a capture folder such as
 C:\capture\
 Type in the following command in the command window:
-capturestills.exe -d 0 -m 11 -n 1 -i 1 c:\capture\
+capturestills.exe -d 0 -m 11 -n 1 -i 1 c:\capture\  
+If a .net error pops up download the .net framework runtime from:
+https://aka.ms/msbuild/developerpacks
 Move the mouse cursor somewhere in the empty area of the desktop.
 Run Workprinter
 The sw will start capturing png images.
